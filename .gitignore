@@ -2,3 +2,6 @@
 out/
 *.jar
 *.iml
+/bin/
+.project
+.classpath
